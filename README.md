@@ -1,6 +1,4 @@
 # Python-Basics
-Here's a description you can use for your GitHub repository where you've uploaded lectures about Python basics:
-
 ---
 
 ## Python Basics Lectures
